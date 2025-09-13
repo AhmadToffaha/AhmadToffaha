@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmad Toffaha
 
-<!--
-**AhmadToffaha/AhmadToffaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Computer Science student at Birzeit University  
+- 📱 Strong experience in **Android (Java/Flutter)** and **Web (PHP/MySQL/React)**  
+- 🌱 Currently working on **E-commerce** and **AgriTech** projects such as *Gharsaty* and *Al-Mouraq*  
+- 💡 Passionate about **startup ideas** and **AI-powered solutions**
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** Java, PHP, JavaScript, Kotlin, SQL, Dart  
+- **Tools:** Android Studio, React, Firebase, MySQL, Git  
+- **Technologies:** REST APIs, FCM Notifications, Responsive Design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- 🛒 [Al-Mouraq Supermarket App](#) – Android shopping app + web-based admin panel  
+- 🌱 [Gharsaty](#) – Agricultural platform supporting Palestinian farmers (mobile + web)  
+- 🚖 [TaxiHub Palestine](#) – Smart taxi management and ride-hailing system for the West Bank  
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmad-toffaha)  
+- ✉️ ahmad@example.com  
+- 🌐 [Portfolio Website](https://your-portfolio.com)
+
+---
+⭐ If you like my projects, don’t forget to give them a **Star** 🌟
